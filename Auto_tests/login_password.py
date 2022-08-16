@@ -1,0 +1,5 @@
+login_standard = 'standard_user'
+login_locked = 'locked_out_user'
+login_problem = 'problem_user'
+login_performance = 'performance_glitch_user'
+password_login = 'secret_sauce'
